@@ -25,7 +25,7 @@ Note: Circle size correlates with driver count per city
 Same as shown in the summary table, urban cities had higher weekly total fare amounts than the other two city types. Rural cities had lower weekly total fare amounts from January to April in 2019. 
 The weekly total fare amount from January to April was stable across the three city types. The total fare amount for all the three city types increased in the second half of February. The weeks at the beginning of January and the end of April were slower weeks for ride-sharing services. 
 
-![Weekly Total Fare by City Type](https://github.com/Wuyang080510/PyBer_Analysis/blob/main/Analysis/TotalFarebyCityType.png)
+![Weekly Total Fare by City Type](https://github.com/Wuyang080510/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png)
 
 ## Summary
 In the urban cities, there were 1.48 drivers for each ride. 
