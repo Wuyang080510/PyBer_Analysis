@@ -17,7 +17,7 @@ PyBer's rideshare service is available in 120 cities. These cities fell into thr
 ![Ride-sharing Data Summary Table by City Type](https://github.com/Wuyang080510/PyBer_Analysis/blob/main/Table_Images/Summary%20Table%20by%20City%20Type.png)
 
 From the bubble chart, we can find out that data points are clustered into three groups. Urban cities had more rides and more drivers. But with a large number of drivers available, the competition is higher in urban than in suburban and rural areas. This led to a more affordable rate for customers living in urban cities. In contrast, there were fewer cities in rural areas that had ride-sharing services. The total number of ride per city in rural areas were mostly less than 10 in 2019. As there were fewer ride-sharing drivers, people in rural cities were willing to pay higher prices for the service. Suburban cities, clustered in the middle of the scatter plot, had a medium number of rides with a competitive fare rate.  
-![PyBer Ride-Sharing Data 2019](https://github.com/Wuyang080510/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+![PyBer Ride-Sharing Data 2019](https://github.com/Wuyang080510/PyBer_Analysis/blob/main/Table_Images/Fig1.png)
 
 Note: Circle size correlates with driver count per city
 
